@@ -1,3 +1,4 @@
+#https://pypi.python.org/pypi/tesserocr
 from PIL import Image
 import tesserocr
 def receiptReader(location):
